@@ -1,2 +1,2 @@
 # Cities-Danish-Flag
-Danish flag. For use with BPs More Flags mod
+Replaces the stock flags with the danish flag Dannebrog. For use with BloodyPenguins More Flags mod
