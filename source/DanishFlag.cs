@@ -6,12 +6,12 @@ namespace DanishFlag
     {
         public string Name
         {
-            get { return "Danish flag"; }
+            get { return "Danish flag replacer"; }
         }
 
         public string Description
         {
-            get { return "Danish flag"; }
+            get { return "Replaces the stock flags with the danish flag Dannebrog"; }
         }
 
         public string[][] CustomFlags()
