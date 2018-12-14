@@ -6,4 +6,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=817019068&result=1
 # Want to make your own version?
 
 ## Windows:
-Clone, fork or download this repoe. Rplace the png files, with your own stuff. Update the source code to match the file names and place the entire folder in "C:\Users\USERNAME\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods" and it should show up in the content manager.
+Clone, fork or download this repo. Replace the png files with your own flag design. Update the source code to match the file names and place the entire folder in "C:\Users\USERNAME\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods". Now it should show up in the content manager in-game.
+
+### Need more help?
+
+Create a GitHub Issue
